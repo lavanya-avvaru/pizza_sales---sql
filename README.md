@@ -4,9 +4,9 @@
 This repository contains SQL scripts that demonstrate how to work with sales data for a pizza business. The goal is to analyze and visualize the data to derive meaningful insights into pizza sales, customer preferences, and business performance.
 
 # Table of Contents
-Introduction
-Key Features
-SQL Queries
+#Introduction
+#Key Features
+#SQL Queries
 
 **Introduction**
 
